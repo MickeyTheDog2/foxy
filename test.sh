@@ -1,2 +1,2 @@
-#/bin/sh
-exit 1
+#!/bin/sh
+exec 1>&2
